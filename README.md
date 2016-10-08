@@ -1,3 +1,16 @@
+This is a fork of the official scaffold with the 1st and 2nd place tournament-winning robots added as examples.
+
+To run:
+
+    git clone git@github.com:darthjoel/battlecode-scaffold.git
+    cd battlecode-scaffold
+    ant update
+    ant run
+
+From the Battlecode UI, in the Team A field, select "final_25" which was 1st place in the 2016 MIT tourney, and
+Team B should be "team061" which was 2nd place.  The other player, examplefuncsplayer, is the reference player.
+Select any map, and then click the "+" button to add that map to the playlist.  Click the "OK" button to start the game.
+
 Battlecode Project Scaffold
 ===========================
 
